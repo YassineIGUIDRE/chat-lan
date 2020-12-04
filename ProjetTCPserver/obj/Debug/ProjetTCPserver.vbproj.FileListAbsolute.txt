@@ -1,0 +1,15 @@
+C:\Users\khalid\Desktop\MiniChat\MiniChat\ProjetTCPserver\obj\Debug\ProjetTCPserver.vbprojAssemblyReference.cache
+C:\Users\khalid\Desktop\MiniChat\MiniChat\ProjetTCPserver\obj\Debug\ProjetTCPserver.Form1.resources
+C:\Users\khalid\Desktop\MiniChat\MiniChat\ProjetTCPserver\obj\Debug\ProjetTCPserver.Resources.resources
+C:\Users\khalid\Desktop\MiniChat\MiniChat\ProjetTCPserver\obj\Debug\ProjetTCPserver.vbproj.GenerateResource.cache
+C:\Users\YASSINE IGUIDRE\Desktop\MiniChat\MiniChat\ProjetTCPserver\bin\Debug\ProjetTCPserver.exe.config
+C:\Users\YASSINE IGUIDRE\Desktop\MiniChat\MiniChat\ProjetTCPserver\bin\Debug\ProjetTCPserver.exe
+C:\Users\YASSINE IGUIDRE\Desktop\MiniChat\MiniChat\ProjetTCPserver\bin\Debug\ProjetTCPserver.pdb
+C:\Users\YASSINE IGUIDRE\Desktop\MiniChat\MiniChat\ProjetTCPserver\bin\Debug\ProjetTCPserver.xml
+C:\Users\YASSINE IGUIDRE\Desktop\MiniChat\MiniChat\ProjetTCPserver\obj\Debug\ProjetTCPserver.vbprojAssemblyReference.cache
+C:\Users\YASSINE IGUIDRE\Desktop\MiniChat\MiniChat\ProjetTCPserver\obj\Debug\ProjetTCPserver.Form1.resources
+C:\Users\YASSINE IGUIDRE\Desktop\MiniChat\MiniChat\ProjetTCPserver\obj\Debug\ProjetTCPserver.Resources.resources
+C:\Users\YASSINE IGUIDRE\Desktop\MiniChat\MiniChat\ProjetTCPserver\obj\Debug\ProjetTCPserver.vbproj.GenerateResource.cache
+C:\Users\YASSINE IGUIDRE\Desktop\MiniChat\MiniChat\ProjetTCPserver\obj\Debug\ProjetTCPserver.exe
+C:\Users\YASSINE IGUIDRE\Desktop\MiniChat\MiniChat\ProjetTCPserver\obj\Debug\ProjetTCPserver.xml
+C:\Users\YASSINE IGUIDRE\Desktop\MiniChat\MiniChat\ProjetTCPserver\obj\Debug\ProjetTCPserver.pdb
